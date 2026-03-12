@@ -35,7 +35,7 @@ header .container {
 }
 
 header .logo a {
-	font-size: 25px;
+	font-size: 18px;
 	text-decoration: none;
 	color: #ffffff;
 	font-weight: 700;
@@ -77,7 +77,7 @@ header .nav ul li {
 
 header .nav ul li a {
 	text-decoration: none;
-	font-size: 20px;
+	font-size: 18px;
 	font-weight: 400;
 	color: #ffffff;
 	display: block;
@@ -626,7 +626,7 @@ header .ham-burger.active span:nth-child(2) {
 .schedule .content .timing .table td {
 	border: 1px solid #dfdfdf;
 	padding: 8px;
-	font-size: 15px;
+	font-size: 11px;
 	text-align: center;
 	color: #222222;
 }
