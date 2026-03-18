@@ -160,7 +160,7 @@ header .ham-burger.active span:nth-child(2) {
 .home {
 	height: 100vh;
 	max-width: 100%;
-	background-image: url('../images/slide-2.jpg');
+	background-image: url('../images/home.jpg');
 	background-size: cover;
 	padding: 15px;
 	-webkit-display: flex;
@@ -225,7 +225,7 @@ header .ham-burger.active span:nth-child(2) {
 }
 
 .home h1 span {
-	color: rgb(251, 115, 21);
+	color: rgb(254, 112, 11);
 	;
 }
 
